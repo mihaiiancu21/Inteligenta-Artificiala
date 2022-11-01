@@ -1,2 +1,2 @@
-# proiecte
-Different Projects in C++
+# Inteligenta-Artificiala
+Laboratoare
