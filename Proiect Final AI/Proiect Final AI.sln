@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Proiect Final AI", "Proiect Final AI\Proiect Final AI.pyproj", "{92DF0423-D9FB-481C-AB8D-1612FDB90F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92DF0423-D9FB-481C-AB8D-1612FDB90F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DF0423-D9FB-481C-AB8D-1612FDB90F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0EA62B-A7D4-4EBB-B022-30DEF0BC785D}
+	EndGlobalSection
+EndGlobal
